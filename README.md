@@ -19,7 +19,7 @@ Fullstack developer with experience in JavaScript, React, Next.js. Experienced i
 
 ### **📫 How to reach me:**  
 
-[LinkedIn](https://www.linkedin.com/in/oleksandra-starovatova-a61964158) | [Telegram](https://t.me/st_oleksandra) | [Email](mailto:starovatovasasha@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/oleksandra-starovatova/) | [Telegram](https://t.me/st_oleksandra) | [Email](mailto:starovatovasasha@gmail.com)
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=byOlexandra&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
