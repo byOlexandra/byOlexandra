@@ -22,9 +22,6 @@ Fullstack developer with experience in JavaScript, React, Next.js. Experienced i
 [LinkedIn](https://www.linkedin.com/in/oleksandra-starovatova/) | [Telegram](https://t.me/st_oleksandra) | [Email](mailto:starovatovasasha@gmail.com)
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byOlexandra&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
-</p>
-<p align="left">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=byOlexandra&theme=react&bg_color=0d1117&hide_border=true" width="70%" alt="Activity Graph" />
   </a>
